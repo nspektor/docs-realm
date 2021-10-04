@@ -20,3 +20,4 @@ Manage Realm Apps
    Create </manage-apps/create>
    Configure </manage-apps/configure>
    Deploy </manage-apps/deploy>
+   Change Settings </manage-apps/change-settings>

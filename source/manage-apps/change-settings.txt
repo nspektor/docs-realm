@@ -1,0 +1,23 @@
+.. _change-app-settings:
+
+===================
+Change App Settings
+===================
+
+.. default-domain:: mongodb
+
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 2
+   :class: singlecol
+
+.. toctree::
+   :titlesonly:
+   :caption: Change App Settings
+   :hidden:
+
+   Realm UI </manage-apps/change-settings/change-settings-with-realm-ui>
+   Realm CLI </manage-apps/change-settings/change-settings-with-cli>
+   Realm API </manage-apps/change-settings/change-settings-with-api>
+   Github </manage-apps/change-settings/change-settings-with-github>

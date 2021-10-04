@@ -1,0 +1,23 @@
+.. _change-settings-github:
+
+=====================================
+Change Realm App Settings with Github
+=====================================
+
+.. default-domain:: mongodb
+
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 1
+   :class: singlecol
+
+Prerequisites
+-------------
+
+- 
+
+Procedure
+---------
+
+.. include:: /includes/steps/github-change-settings.rst
